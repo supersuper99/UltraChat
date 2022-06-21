@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "UltraChat",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

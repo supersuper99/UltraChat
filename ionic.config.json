@@ -1,0 +1,7 @@
+{
+  "name": "UltraChat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
